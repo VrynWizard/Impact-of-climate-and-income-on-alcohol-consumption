@@ -1,0 +1,337 @@
+State,Climate Index,Value
+Alabama,Average Temperature,64.2°F
+Alabama,Maximum Temperature,75.1°F
+Alabama,Minimum Temperature,53.3°F
+Alabama,Precipitation,"65.16"""
+Alabama,Cooling Degree Days,"1,889°Df"
+Alabama,Heating Degree Days,"2,396°Df"
+Alabama,Palmer Z-Index,1.04
+Arizona,Average Temperature,62.1°F
+Arizona,Maximum Temperature,76.4°F
+Arizona,Minimum Temperature,47.8°F
+Arizona,Precipitation,"12.57"""
+Arizona,Cooling Degree Days,"3,152°Df"
+Arizona,Heating Degree Days,"1,723°Df"
+Arizona,Palmer Z-Index,-0.84
+Arkansas,Average Temperature,61.3°F
+Arkansas,Maximum Temperature,72.0°F
+Arkansas,Minimum Temperature,50.7°F
+Arkansas,Precipitation,"50.23"""
+Arkansas,Cooling Degree Days,"1,784°Df"
+Arkansas,Heating Degree Days,"3,254°Df"
+Arkansas,Palmer Z-Index,0.07
+California,Average Temperature,60.4°F
+California,Maximum Temperature,73.1°F
+California,Minimum Temperature,47.6°F
+California,Precipitation,"18.93"""
+California,Cooling Degree Days,"1,146°Df"
+California,Heating Degree Days,"2,689°Df"
+California,Palmer Z-Index,-1.47
+Colorado,Average Temperature,47.5°F
+Colorado,Maximum Temperature,61.5°F
+Colorado,Minimum Temperature,33.5°F
+Colorado,Precipitation,"17.10"""
+Colorado,Cooling Degree Days,428°Df
+Colorado,Heating Degree Days,"6,723°Df"
+Colorado,Palmer Z-Index,-1.37
+Connecticut,Average Temperature,51.4°F
+Connecticut,Maximum Temperature,60.9°F
+Connecticut,Minimum Temperature,41.9°F
+Connecticut,Precipitation,"51.07"""
+Connecticut,Cooling Degree Days,706°Df
+Connecticut,Heating Degree Days,"5,410°Df"
+Connecticut,Palmer Z-Index,0.23
+Delaware,Average Temperature,57.4°F
+Delaware,Maximum Temperature,67.2°F
+Delaware,Minimum Temperature,47.6°F
+Delaware,Precipitation,"40.90"""
+Delaware,Cooling Degree Days,"1,254°Df"
+Delaware,Heating Degree Days,"4,164°Df"
+Delaware,Palmer Z-Index,-0.62
+Florida,Average Temperature,72.2°F
+Florida,Maximum Temperature,82.2°F
+Florida,Minimum Temperature,62.2°F
+Florida,Precipitation,"55.38"""
+Florida,Cooling Degree Days,"3,758°Df"
+Florida,Heating Degree Days,505°Df
+Florida,Palmer Z-Index,-0.02
+Georgia,Average Temperature,64.6°F
+Georgia,Maximum Temperature,75.8°F
+Georgia,Minimum Temperature,53.4°F
+Georgia,Precipitation,"57.14"""
+Georgia,Cooling Degree Days,"1,658°Df"
+Georgia,Heating Degree Days,"2,502°Df"
+Georgia,Palmer Z-Index,0.94
+Idaho,Average Temperature,45.4°F
+Idaho,Maximum Temperature,57.4°F
+Idaho,Minimum Temperature,33.4°F
+Idaho,Precipitation,"21.01"""
+Idaho,Cooling Degree Days,728°Df
+Idaho,Heating Degree Days,"6,479°Df"
+Idaho,Palmer Z-Index,-1.28
+Illinois,Average Temperature,53.8°F
+Illinois,Maximum Temperature,63.6°F
+Illinois,Minimum Temperature,44.0°F
+Illinois,Precipitation,"41.01"""
+Illinois,Cooling Degree Days,"1,063°Df"
+Illinois,Heating Degree Days,"5,684°Df"
+Illinois,Palmer Z-Index,0.52
+Indiana,Average Temperature,53.5°F
+Indiana,Maximum Temperature,63.5°F
+Indiana,Minimum Temperature,43.5°F
+Indiana,Precipitation,"45.46"""
+Indiana,Cooling Degree Days,"1,028°Df"
+Indiana,Heating Degree Days,"5,273°Df"
+Indiana,Palmer Z-Index,0.81
+Iowa,Average Temperature,50.0°F
+Iowa,Maximum Temperature,60.4°F
+Iowa,Minimum Temperature,39.6°F
+Iowa,Precipitation,"30.84"""
+Iowa,Cooling Degree Days,977°Df
+Iowa,Heating Degree Days,"6,352°Df"
+Iowa,Palmer Z-Index,-0.29
+Kansas,Average Temperature,56.1°F
+Kansas,Maximum Temperature,68.8°F
+Kansas,Minimum Temperature,43.5°F
+Kansas,Precipitation,"27.25"""
+Kansas,Cooling Degree Days,"1,590°Df"
+Kansas,Heating Degree Days,"4,532°Df"
+Kansas,Palmer Z-Index,-0.10
+Kentucky,Average Temperature,57.0°F
+Kentucky,Maximum Temperature,67.6°F
+Kentucky,Minimum Temperature,46.3°F
+Kentucky,Precipitation,"53.39"""
+Kentucky,Cooling Degree Days,"1,259°Df"
+Kentucky,Heating Degree Days,"4,165°Df"
+Kentucky,Palmer Z-Index,0.89
+Louisiana,Average Temperature,67.5°F
+Louisiana,Maximum Temperature,77.1°F
+Louisiana,Minimum Temperature,57.8°F
+Louisiana,Precipitation,"66.28"""
+Louisiana,Cooling Degree Days,"2,703°Df"
+Louisiana,Heating Degree Days,"1,510°Df"
+Louisiana,Palmer Z-Index,0.86
+Maine,Average Temperature,44.2°F
+Maine,Maximum Temperature,54.1°F
+Maine,Minimum Temperature,34.3°F
+Maine,Precipitation,"39.75"""
+Maine,Cooling Degree Days,305°Df
+Maine,Heating Degree Days,"6,959°Df"
+Maine,Palmer Z-Index,-0.62
+Maryland,Average Temperature,56.8°F
+Maryland,Maximum Temperature,66.7°F
+Maryland,Minimum Temperature,47.0°F
+Maryland,Precipitation,"41.57"""
+Maryland,Cooling Degree Days,"1,303°Df"
+Maryland,Heating Degree Days,"4,159°Df"
+Maryland,Palmer Z-Index,-0.28
+Massachusetts,Average Temperature,50.8°F
+Massachusetts,Maximum Temperature,60.2°F
+Massachusetts,Minimum Temperature,41.4°F
+Massachusetts,Precipitation,"54.82"""
+Massachusetts,Cooling Degree Days,667°Df
+Massachusetts,Heating Degree Days,"5,515°Df"
+Massachusetts,Palmer Z-Index,0.81
+Michigan,Average Temperature,47.4°F
+Michigan,Maximum Temperature,57.2°F
+Michigan,Minimum Temperature,37.6°F
+Michigan,Precipitation,"32.88"""
+Michigan,Cooling Degree Days,762°Df
+Michigan,Heating Degree Days,"6,079°Df"
+Michigan,Palmer Z-Index,0.02
+Minnesota,Average Temperature,44.3°F
+Minnesota,Maximum Temperature,55.0°F
+Minnesota,Minimum Temperature,33.6°F
+Minnesota,Precipitation,"23.57"""
+Minnesota,Cooling Degree Days,651°Df
+Minnesota,Heating Degree Days,"7,826°Df"
+Minnesota,Palmer Z-Index,-1.15
+Mississippi,Average Temperature,64.7°F
+Mississippi,Maximum Temperature,75.4°F
+Mississippi,Minimum Temperature,54.0°F
+Mississippi,Precipitation,"65.50"""
+Mississippi,Cooling Degree Days,"2,174°Df"
+Mississippi,Heating Degree Days,"2,162°Df"
+Mississippi,Palmer Z-Index,1.10
+Missouri,Average Temperature,56.3°F
+Missouri,Maximum Temperature,66.7°F
+Missouri,Minimum Temperature,45.9°F
+Missouri,Precipitation,"44.01"""
+Missouri,Cooling Degree Days,"1,378°Df"
+Missouri,Heating Degree Days,"4,645°Df"
+Missouri,Palmer Z-Index,0.48
+Montana,Average Temperature,44.0°F
+Montana,Maximum Temperature,56.7°F
+Montana,Minimum Temperature,31.2°F
+Montana,Precipitation,"14.31"""
+Montana,Cooling Degree Days,341°Df
+Montana,Heating Degree Days,"8,203°Df"
+Montana,Palmer Z-Index,-1.82
+Nebraska,Average Temperature,51.1°F
+Nebraska,Maximum Temperature,63.8°F
+Nebraska,Minimum Temperature,38.3°F
+Nebraska,Precipitation,"22.60"""
+Nebraska,Cooling Degree Days,"1,173°Df"
+Nebraska,Heating Degree Days,"5,825°Df"
+Nebraska,Palmer Z-Index,-0.30
+Nevada,Average Temperature,52.5°F
+Nevada,Maximum Temperature,66.2°F
+Nevada,Minimum Temperature,38.8°F
+Nevada,Precipitation,"9.58"""
+Nevada,Cooling Degree Days,"2,495°Df"
+Nevada,Heating Degree Days,"3,284°Df"
+Nevada,Palmer Z-Index,-1.23
+New Hampshire,Average Temperature,46.1°F
+New Hampshire,Maximum Temperature,56.1°F
+New Hampshire,Minimum Temperature,36.0°F
+New Hampshire,Precipitation,"45.98"""
+New Hampshire,Cooling Degree Days,381°Df
+New Hampshire,Heating Degree Days,"6,788°Df"
+New Hampshire,Palmer Z-Index,0.06
+New Jersey,Average Temperature,55.1°F
+New Jersey,Maximum Temperature,64.8°F
+New Jersey,Minimum Temperature,45.4°F
+New Jersey,Precipitation,"47.87"""
+New Jersey,Cooling Degree Days,"1,021°Df"
+New Jersey,Heating Degree Days,"4,757°Df"
+New Jersey,Palmer Z-Index,0.16
+New Mexico,Average Temperature,55.4°F
+New Mexico,Maximum Temperature,70.6°F
+New Mexico,Minimum Temperature,40.3°F
+New Mexico,Precipitation,"12.34"""
+New Mexico,Cooling Degree Days,"1,073°Df"
+New Mexico,Heating Degree Days,"4,187°Df"
+New Mexico,Palmer Z-Index,-1.11
+New York,Average Temperature,47.7°F
+New York,Maximum Temperature,57.2°F
+New York,Minimum Temperature,38.3°F
+New York,Precipitation,"46.25"""
+New York,Cooling Degree Days,746°Df
+New York,Heating Degree Days,"5,517°Df"
+New York,Palmer Z-Index,0.69
+North Carolina,Average Temperature,60.2°F
+North Carolina,Maximum Temperature,71.1°F
+North Carolina,Minimum Temperature,49.3°F
+North Carolina,Precipitation,"47.60"""
+North Carolina,Cooling Degree Days,"1,489°Df"
+North Carolina,Heating Degree Days,"3,103°Df"
+North Carolina,Palmer Z-Index,-0.20
+North Dakota,Average Temperature,43.8°F
+North Dakota,Maximum Temperature,56.2°F
+North Dakota,Minimum Temperature,31.4°F
+North Dakota,Precipitation,"15.63"""
+North Dakota,Cooling Degree Days,697°Df
+North Dakota,Heating Degree Days,"8,373°Df"
+North Dakota,Palmer Z-Index,-1.37
+Ohio,Average Temperature,53.2°F
+Ohio,Maximum Temperature,63.0°F
+Ohio,Minimum Temperature,43.3°F
+Ohio,Precipitation,"41.68"""
+Ohio,Cooling Degree Days,928°Df
+Ohio,Heating Degree Days,"5,213°Df"
+Ohio,Palmer Z-Index,0.58
+Oklahoma,Average Temperature,60.8°F
+Oklahoma,Maximum Temperature,72.8°F
+Oklahoma,Minimum Temperature,48.8°F
+Oklahoma,Precipitation,"33.62"""
+Oklahoma,Cooling Degree Days,"1,954°Df"
+Oklahoma,Heating Degree Days,"3,346°Df"
+Oklahoma,Palmer Z-Index,0.13
+Oregon,Average Temperature,49.2°F
+Oregon,Maximum Temperature,61.0°F
+Oregon,Minimum Temperature,37.4°F
+Oregon,Precipitation,"28.51"""
+Oregon,Cooling Degree Days,372°Df
+Oregon,Heating Degree Days,"5,068°Df"
+Oregon,Palmer Z-Index,-1.24
+Pennsylvania,Average Temperature,51.2°F
+Pennsylvania,Maximum Temperature,61.1°F
+Pennsylvania,Minimum Temperature,41.2°F
+Pennsylvania,Precipitation,"46.11"""
+Pennsylvania,Cooling Degree Days,844°Df
+Pennsylvania,Heating Degree Days,"5,231°Df"
+Pennsylvania,Palmer Z-Index,0.39
+Rhode Island,Average Temperature,52.5°F
+Rhode Island,Maximum Temperature,61.5°F
+Rhode Island,Minimum Temperature,43.5°F
+Rhode Island,Precipitation,"49.85"""
+Rhode Island,Cooling Degree Days,708°Df
+Rhode Island,Heating Degree Days,"5,220°Df"
+Rhode Island,Palmer Z-Index,0.36
+South Carolina,Average Temperature,63.7°F
+South Carolina,Maximum Temperature,74.8°F
+South Carolina,Minimum Temperature,52.7°F
+South Carolina,Precipitation,"47.47"""
+South Carolina,Cooling Degree Days,"1,868°Df"
+South Carolina,Heating Degree Days,"2,373°Df"
+South Carolina,Palmer Z-Index,-0.09
+South Dakota,Average Temperature,48.0°F
+South Dakota,Maximum Temperature,60.6°F
+South Dakota,Minimum Temperature,35.5°F
+South Dakota,Precipitation,"18.15"""
+South Dakota,Cooling Degree Days,910°Df
+South Dakota,Heating Degree Days,"7,036°Df"
+South Dakota,Palmer Z-Index,-0.73
+Tennessee,Average Temperature,59.0°F
+Tennessee,Maximum Temperature,69.7°F
+Tennessee,Minimum Temperature,48.4°F
+Tennessee,Precipitation,"58.78"""
+Tennessee,Cooling Degree Days,"1,399°Df"
+Tennessee,Heating Degree Days,"3,503°Df"
+Tennessee,Palmer Z-Index,0.90
+Texas,Average Temperature,66.2°F
+Texas,Maximum Temperature,78.3°F
+Texas,Minimum Temperature,54.1°F
+Texas,Precipitation,"28.79"""
+Texas,Cooling Degree Days,"2,816°Df"
+Texas,Heating Degree Days,"1,643°Df"
+Texas,Palmer Z-Index,-0.18
+Utah,Average Temperature,50.7°F
+Utah,Maximum Temperature,63.7°F
+Utah,Minimum Temperature,37.7°F
+Utah,Precipitation,"13.55"""
+Utah,Cooling Degree Days,739°Df
+Utah,Heating Degree Days,"6,551°Df"
+Utah,Palmer Z-Index,-1.13
+Vermont,Average Temperature,45.0°F
+Vermont,Maximum Temperature,54.9°F
+Vermont,Minimum Temperature,35.1°F
+Vermont,Precipitation,"41.61"""
+Vermont,Cooling Degree Days,298°Df
+Vermont,Heating Degree Days,"7,426°Df"
+Vermont,Palmer Z-Index,-0.31
+Virginia,Average Temperature,57.1°F
+Virginia,Maximum Temperature,67.9°F
+Virginia,Minimum Temperature,46.1°F
+Virginia,Precipitation,"40.86"""
+Virginia,Cooling Degree Days,"1,253°Df"
+Virginia,Heating Degree Days,"3,927°Df"
+Virginia,Palmer Z-Index,-0.44
+Washington,Average Temperature,48.3°F
+Washington,Maximum Temperature,58.2°F
+Washington,Minimum Temperature,38.4°F
+Washington,Precipitation,"43.87"""
+Washington,Cooling Degree Days,278°Df
+Washington,Heating Degree Days,"5,562°Df"
+Washington,Palmer Z-Index,-0.66
+West Virginia,Average Temperature,53.6°F
+West Virginia,Maximum Temperature,64.5°F
+West Virginia,Minimum Temperature,42.7°F
+West Virginia,Precipitation,"42.58"""
+West Virginia,Cooling Degree Days,880°Df
+West Virginia,Heating Degree Days,"4,759°Df"
+West Virginia,Palmer Z-Index,-0.23
+Wisconsin,Average Temperature,45.8°F
+Wisconsin,Maximum Temperature,56.2°F
+Wisconsin,Minimum Temperature,35.4°F
+Wisconsin,Precipitation,"29.90"""
+Wisconsin,Cooling Degree Days,670°Df
+Wisconsin,Heating Degree Days,"6,934°Df"
+Wisconsin,Palmer Z-Index,-0.46
+Wyoming,Average Temperature,43.6°F
+Wyoming,Maximum Temperature,56.9°F
+Wyoming,Minimum Temperature,30.4°F
+Wyoming,Precipitation,"14.37"""
+Wyoming,Cooling Degree Days,413°Df
+Wyoming,Heating Degree Days,"7,865°Df"
+Wyoming,Palmer Z-Index,-1.70
